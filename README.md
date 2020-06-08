@@ -6,7 +6,7 @@ Student ID : PA-15170
 
 The blog post related can be found here:
 
-1. Bind Shell with Passcode
+1. Bind Shell with Passcode :
 https://n1lpat.wordpress.com/2020/06/09/01-slae64-shell_bind_tcp-with-passcode/
 
 
