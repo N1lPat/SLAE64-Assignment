@@ -26,3 +26,6 @@ Part2 shell_reverse_tcp : https://n1lpat.wordpress.com/2020/06/09/05-part2-slae6
 
 Part3 shell_bind_randomport :https://n1lpat.wordpress.com/2020/06/09/05-part3-slae64-shell_bind_tcp_randomport/
 
+6. Polymorphism:
+https://n1lpat.wordpress.com/2020/06/09/04-slae64-polymorphism/
+
