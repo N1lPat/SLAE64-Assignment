@@ -29,3 +29,9 @@ Part3 shell_bind_randomport :https://n1lpat.wordpress.com/2020/06/09/05-part3-sl
 6. Polymorphism:
 https://n1lpat.wordpress.com/2020/06/09/04-slae64-polymorphism/
 
+7. Crypter
+https://n1lpat.wordpress.com/2020/06/09/07-slae64-crypter/
+
+8.[Extra] Chaining Encoders and Crypter
+https://n1lpat.wordpress.com/2020/06/09/extra08-chaining-encoders-and-crypters/
+
