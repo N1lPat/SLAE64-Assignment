@@ -15,4 +15,7 @@ https://n1lpat.wordpress.com/2020/06/09/02-slae64-shell_reverse_tcp-with-passcod
 3. Egg Hunter:
 https://n1lpat.wordpress.com/2020/06/09/03-slae64-egg-hunter/
 
+4. NOT EVEN ROT13 Encoder:
+https://n1lpat.wordpress.com/2020/06/09/04-slae64-not-even-rot13-encoder/
+
 
